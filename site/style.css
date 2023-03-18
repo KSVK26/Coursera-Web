@@ -8,3 +8,6 @@ p:hover {
     color: blue;
     font-size: 50%;
 }
+p:visited {
+    color: black
+}

@@ -4,3 +4,7 @@ p {
     text-align: center;
     justify-content: center;
 }
+p:hover {
+    color: blue;
+    font-size: 50%;
+}

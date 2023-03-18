@@ -9,5 +9,5 @@ p:hover {
     font-size: 50%;
 }
 p:visited {
-    color: black
+    text-decoration: none;
 }
